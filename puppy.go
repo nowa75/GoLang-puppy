@@ -1,8 +1,6 @@
 package puppy
 
-import (
-	"github.com/nowa75/GoLang-dog"
-)
+import dog "github.com/nowa75/GoLang-dog"
 
 func Bark() string {
 	return "Woof!"
